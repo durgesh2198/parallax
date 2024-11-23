@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box1{
+    background-image: url("https://assets3.thrillist.com/v1/image/2887999/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70");
+    height: 425px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.6;
+    padding-top: 350px; 
+    
+
+}
+
+.cen{
+
+width: fit-content;
+padding: 15px 20px;
+color: white;
+background-color: black;
+margin: auto;
+margin-top: auto;
+
+}
+
+.box2{
+    background-color: rgb(215, 215, 214);
+    color: rgb(83, 83, 83);
+    padding: 70px;
+    text-align: center;
+    line-height: 27px;
+}
+
+.imgbox{
+    background-image: url('https://images.pexels.com/photos/255377/pexels-photo-255377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 200px;
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 13%;
+}
+.im{
+    letter-spacing: 10px;
+    color: white;
+    font-weight: 300;
+    margin-left: 35%;
+    
+}
+.box3{
+    color: whitesmoke;
+    background-color: rgba(27, 27, 27, 0.91);
+    text-align: center;
+    line-height: 27px;
+    padding: 70px;
+}
+.im3{
+    background-image: url('https://media.istockphoto.com/photos/scenic-nighttime-skyline-of-a-big-modern-city-dubai-uae-picture-id938446038?b=1&k=20&m=938446038&s=170667a&w=0&h=rTvcOddp52Mvman3ESDTbikRPhLyTsDAo_mLQHdcCEA=');
+
+    height: 200px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    padding-top: 13%;
+}
+h1{
+    letter-spacing: 8px;
+}
